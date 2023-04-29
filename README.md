@@ -16,8 +16,7 @@
 <div>
    <h1 align="center">Descripción</h1>
    <p align="center">
-   Nuestro objetivo es desarrollar una aplicación que permita a las personas adecuadas acceder a la información necesaria para encontrar a su mascota perdida. Para ello, la aplicación proporcionará los siguientes recursos:
-
+   Nuestro objetivo es desarrollar una aplicación que permita a las personas adecuadas acceder a la información necesaria para encontrar a su mascota perdida. Para ello,la aplicación proporcionará los siguientes recursos:
 Última ubicación registrada donde se vio al animal.
 Acceso a carteles de aviso para difundir la pérdida de la mascota.
 Sección donde los usuarios pueden publicar avisos sobre la pérdida de su mascota.
